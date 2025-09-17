@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hello World, I'm Vale Bela!!!
 
-<!--
-**valebela/ValeBela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m passionate about building projects that combine **data, design, and technology** to create practical and creative solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me!
+
+-  **Rutgers University–New Brunswick** | Class of 2026
+-  Bachelor's in Information in Technology and Informatics
+-  Minor in Art History 
+-  Certified in **IS-42.A: Social Media in Emergency Management** (FEMA)   
+- Experienced with: **Python, C#, Unity, Flask, Pandas, Matplotlib, Git, and VS Code**  
+-  Interested in projects at the intersection of **data science, IT, and game development**  
+-  Passionate about turning creative ideas into interactive experiences — from **games** to **data-driven insights**  
+
+---
+
+##  Highlight Projects  
+
+-  [**Character-Data-Rank**](https://github.com/valebela/Character-Data-Rank)  
+  Data analysis + visualization of Sanrio character rankings (1986–2024). Outputs both CSV summaries and visual charts.  
+
+-  [**Taxi-Fare**](https://github.com/valebela/Taxi-Faire)  
+  Python fare calculator that computes taxi costs based on distance.  
+
+-  [**Flask_Pin**](https://github.com/valebela/Flask_Pin)  
+  Flask web app demonstrating multiple routes, loops, conditionals, and JSON responses.  
+
+---
+
+## Languages & Tools  
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)  
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)  
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)  
+
+---
+
+## GitHub Stats  
+
+![Valebela's GitHub stats](https://github-readme-stats.vercel.app/api?username=valebela&show_icons=true&theme=radical)  
+
+---
+
+##  Connect with Me  
+
+- Email: *valebelarod@gmail.com*  
+- LinkedIn: *www.linkedin.com/in/valebela*  
+
+
+Thanks for visiting my profile! Feel free to explore my projects and reach out if you’d like to collaborate.  
+
