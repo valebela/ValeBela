@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m passionate about building projects that comb
 -  Bachelor's in Information in Technology and Informatics
 -  Minor in Art History 
 -  Certified in **IS-42.A: Social Media in Emergency Management** (FEMA)   
-- Experienced with: **Python, C#, Unity, Flask, Pandas, Matplotlib, Git, and VS Code**  
+- Experienced with: **Python, C#, Unity, Flask, Pandas, Matplotlib, Git, html, and VS Code**  
 -  Interested in projects at the intersection of **data science, IT, and game development**  
 -  Passionate about turning creative ideas into interactive experiences — from **games** to **data-driven insights**  
 
@@ -25,7 +25,10 @@ Welcome to my GitHub profile! I’m passionate about building projects that comb
   Python fare calculator that computes taxi costs based on distance.  
 
 -  [**Flask_Pin**](https://github.com/valebela/Flask_Pin)  
-  Flask web app demonstrating multiple routes, loops, conditionals, and JSON responses.  
+  Flask web app demonstrating multiple routes, loops, conditionals, and JSON responses.
+
+- [**Course-Evaluation**](https://github.com/valebela/Course-Evaluation)
+Python script to collect student data and summarize grades by course. Enter student names, courses, and grades, then calculate the average, minimum, and maximum grades for a chosen course.
 
 ---
 
