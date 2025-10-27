@@ -1,8 +1,6 @@
-# Hello World, I'm Vale Bela!!!
+# Hello, I'm Vale Bela!!!
 
 Welcome to my GitHub profile! I’m passionate about building projects that combine **data, design, and technology** to create practical and creative solutions.  
-
----
 
 ##  About Me!
 
@@ -11,26 +9,30 @@ Welcome to my GitHub profile! I’m passionate about building projects that comb
 -  Minor in Art History 
 -  Certified in **IS-42.A: Social Media in Emergency Management** (FEMA)   
 - Experienced with: **Python, C#, Unity, Flask, Pandas, Matplotlib, Git, html, and VS Code**  
--  Interested in projects at the intersection of **data science, IT, and game development**  
--  Passionate about turning creative ideas into interactive experiences — from **games** to **data-driven insights**  
+-  Interested in projects at the intersection of **data science, IT, animation, and game development**  
 
----
 
 ##  Highlight Projects  
 
--  [**Character-Data-Rank**](https://github.com/valebela/Character-Data-Rank)  
-  Data analysis + visualization of Sanrio character rankings (1986–2024). Outputs both CSV summaries and visual charts.  
+* [**Vampire Blood Bag Game Prototype**](https://youtu.be/e9g9kYYl5rg)
+  A fast-paced Unity prototype where a hungry vampire collects blood bags, avoids garlic hazards, and returns to their coffin to win. Built using C# scripts for player movement, collision detection, and game logic. <br>
+  [![Watch the Demo](https://img.youtube.com/vi/e9g9kYYl5rg/maxresdefault.jpg)](https://youtu.be/e9g9kYYl5rg)
 
--  [**Taxi-Fare**](https://github.com/valebela/Taxi-Faire)  
-  Python fare calculator that computes taxi costs based on distance.  
+* [**Haunted Rat Adventure Prototype**](https://youtu.be/fIxngaye9s0)
+  A 3D Unity prototype with 2D watercolor art elements, where a clever rat collects cheese while avoiding a roaming demon. Built in C# with custom animations and imported watercolor textures for a unique visual style. <br>
+  [![Watch the Demo](https://img.youtube.com/vi/fIxngaye9s0/maxresdefault.jpg)](https://youtu.be/fIxngaye9s0)
 
--  [**Flask_Pin**](https://github.com/valebela/Flask_Pin)  
+* [**Character-Data-Rank**](https://github.com/valebela/Character-Data-Rank)
+  Data analysis + visualization of Sanrio character rankings (1986–2024). Outputs both CSV summaries and visual charts.
+
+* [**Taxi-Fare**](https://github.com/valebela/Taxi-Faire)
+  Python fare calculator that computes taxi costs based on distance.
+
+* [**Flask_Pin**](https://github.com/valebela/Flask_Pin)
   Flask web app demonstrating multiple routes, loops, conditionals, and JSON responses.
 
-- [**Course-Evaluation**](https://github.com/valebela/Course-Evaluation)
-Python script to collect student data and summarize grades by course. Enter student names, courses, and grades, then calculate the average, minimum, and maximum grades for a chosen course.
-
----
+* [**Course-Evaluation**](https://github.com/valebela/Course-Evaluation)
+  Python script to collect student data and analyze grades by course (average, min, max) with clean summaries.
 
 ## Languages & Tools  
 
@@ -47,8 +49,10 @@ Python script to collect student data and summarize grades by course. Enter stud
 ##  Connect with Me  
 
 - Email: *valebelarod@gmail.com*  
-- LinkedIn: *www.linkedin.com/in/valebela*  
+- LinkedIn: *www.linkedin.com/in/valebela*
+- 
 
 
 Thanks for visiting my profile! Feel free to explore my projects and reach out if you’d like to collaborate.  
+Any feedback is greatly appreciated. 
 
