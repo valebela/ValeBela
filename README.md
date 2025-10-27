@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 I’m passionate about building projects that combine **data, design, and technology** to create practical and creative solutions.  
-[![My Website:](https://valebela.neocities.org/welcome)
+[My Website:](https://valebela.neocities.org/welcome)
 
 ##  About Me!
 
