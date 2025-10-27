@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I’m passionate about building projects that comb
 
 ##  Highlight Projects  
 
-* [**Vampire Blood Bag Game Prototype**](https://youtu.be/e9g9kYYl5rg)
+* [**Vampire Blood Drive Game Prototype**]
   A fast-paced Unity prototype where a hungry vampire collects blood bags, avoids garlic hazards, and returns to their coffin to win. Built using C# scripts for player movement, collision detection, and game logic. <br>
   [![Watch the Demo](https://img.youtube.com/vi/e9g9kYYl5rg/maxresdefault.jpg)](https://youtu.be/e9g9kYYl5rg)
 
-* [**Haunted Rat Adventure Prototype**](https://youtu.be/fIxngaye9s0)
+* [**Haunted Rat Adventure Prototype**]
   A 3D Unity prototype with 2D watercolor art elements, where a clever rat collects cheese while avoiding a roaming demon. Built in C# with custom animations and imported watercolor textures for a unique visual style. <br>
   [![Watch the Demo](https://img.youtube.com/vi/fIxngaye9s0/maxresdefault.jpg)](https://youtu.be/fIxngaye9s0)
 
