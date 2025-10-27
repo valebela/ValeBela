@@ -1,6 +1,7 @@
 # Hello, I'm Vale Bela!!!
 
-Welcome to my GitHub profile! I’m passionate about building projects that combine **data, design, and technology** to create practical and creative solutions.  
+Welcome to my GitHub profile! 
+I’m passionate about building projects that combine **data, design, and technology** to create practical and creative solutions.  
 
 ##  About Me!
 
