@@ -10,7 +10,7 @@ I’m passionate about building projects that combine **data, design, and techno
 -  Bachelor's in Information in Technology and Informatics
 -  Minor in Art History 
 -  Certified in **IS-42.A: Social Media in Emergency Management** (FEMA)   
-- Experienced with: **Python, C#, Unity, Flask, Pandas, Matplotlib, Git, html, and VS Code**  
+-  Experienced with: **Python, C#, Unity, Flask, Pandas, Matplotlib, Git, html, and VS Code**  
 -  Interested in projects at the intersection of **data science, IT, animation, and game development**  
 
 
@@ -55,7 +55,6 @@ I’m passionate about building projects that combine **data, design, and techno
 
 - Email: *valebelarod@gmail.com*  
 - LinkedIn: *www.linkedin.com/in/valebela*
-- 
 
 
 Thanks for visiting my profile! Feel free to explore my projects and reach out if you’d like to collaborate.  
