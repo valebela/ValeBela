@@ -24,6 +24,9 @@ I’m passionate about building projects that combine **data, design, and techno
   A 3D Unity prototype with 2D watercolor art elements, where a clever rat collects cheese while avoiding a roaming demon. Built in C# with custom animations and imported watercolor textures for a unique visual style. <br>
   [![Watch the Demo](https://img.youtube.com/vi/fIxngaye9s0/maxresdefault.jpg)](https://youtu.be/fIxngaye9s0)
 
+* [**Data-Science-Salaries-Visual**](https://github.com/valebela/Data-Science-Salaries-Visual)
+   This project analyzes salary data for the role of Data Scientist using two datasets, the program loads and cleans both datasets, calculates average salaries, and visualizes the comparison.
+
 * [**Character-Data-Rank**](https://github.com/valebela/Character-Data-Rank)
   Data analysis + visualization of Sanrio character rankings (1986–2024). Outputs both CSV summaries and visual charts.
 
