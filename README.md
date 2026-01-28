@@ -4,8 +4,6 @@ I build projects at the intersection of **data, design, and technology**, focusi
 
 🌐 **Website:** [https://valebela.neocities.org/welcome](https://valebela.neocities.org/welcome)
 
----
-
 ## About Me
 
 * **Rutgers University–New Brunswick** | Class of 2026
@@ -15,7 +13,6 @@ I build projects at the intersection of **data, design, and technology**, focusi
 * **Skills:** Python, C#, Unity, Flask, Pandas, Matplotlib, Git, HTML, VS Code
 * **Interests:** Data analysis, IT systems, visualization, animation, and game development
 
----
 
 ## Highlight Projects
 
@@ -25,7 +22,6 @@ A fast-paced Unity prototype where a vampire collects blood bags, avoids garlic 
 
 ▶️ Demo: [https://youtu.be/e9g9kYYl5rg](https://youtu.be/e9g9kYYl5rg)
 
----
 
 ### 🐀 Haunted Rat Adventure — Game Prototype
 
@@ -33,7 +29,6 @@ A 3D Unity prototype featuring 2D watercolor art elements. Players guide a rat t
 
 ▶️ Demo: [https://youtu.be/fIxngaye9s0](https://youtu.be/fIxngaye9s0)
 
----
 
 ### 📊 Data-Science-Salaries-Visual
 
@@ -41,7 +36,7 @@ Analyzes and compares Data Scientist salary data by cleaning datasets, calculati
 
 🔗 [https://github.com/valebela/Data-Science-Salaries-Visual](https://github.com/valebela/Data-Science-Salaries-Visual)
 
----
+
 
 ### 📈 Character-Data-Rank
 
@@ -49,7 +44,7 @@ Data analysis and visualization of Sanrio character popularity rankings (1986–
 
 🔗 [https://github.com/valebela/Character-Data-Rank](https://github.com/valebela/Character-Data-Rank)
 
----
+
 
 ### 🚕 Taxi-Fare
 
@@ -57,7 +52,7 @@ Python fare calculator that computes taxi costs based on travel distance.
 
 🔗 [https://github.com/valebela/Taxi-Fare](https://github.com/valebela/Taxi-Fare)
 
----
+
 
 ### 🌐 Flask_Pin
 
@@ -65,7 +60,7 @@ A Flask web app demonstrating multiple routes, loops, conditionals, and JSON res
 
 🔗 [https://github.com/valebela/Flask_Pin](https://github.com/valebela/Flask_Pin)
 
----
+
 
 ### 📚 Course-Evaluation
 
@@ -73,7 +68,6 @@ Python script that collects student data and analyzes grades by course (average,
 
 🔗 [https://github.com/valebela/Course-Evaluation](https://github.com/valebela/Course-Evaluation)
 
----
 
 ## Languages & Tools
 
@@ -86,7 +80,6 @@ Python script that collects student data and analyzes grades by course (average,
 * Git
 * VS Code
 
----
 
 ## Connect With Me
 
