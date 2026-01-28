@@ -1,62 +1,97 @@
-# Hello, I'm Vale Bela!!!
+# Hello, I’m Vale Bela 
 
-Welcome to my GitHub profile! 
-I’m passionate about building projects that combine **data, design, and technology** to create practical and creative solutions.  
-[My Website!](https://valebela.neocities.org/welcome)
+I build projects at the intersection of **data, design, and technology**, focusing on practical solutions with a creative edge.
 
-##  About Me!
+🌐 **Website:** [https://valebela.neocities.org/welcome](https://valebela.neocities.org/welcome)
 
--  **Rutgers University–New Brunswick** | Class of 2026
--  Bachelor's in Information in Technology and Informatics
--  Minor in Art History 
--  Certified in **IS-42.A: Social Media in Emergency Management** (FEMA)   
--  Experienced with: **Python, C#, Unity, Flask, Pandas, Matplotlib, Git, html, and VS Code**  
--  Interested in projects at the intersection of **data science, IT, animation, and game development**  
+---
 
+## About Me
 
-##  Highlight Projects  
+* **Rutgers University–New Brunswick** | Class of 2026
+* **B.S. in Information Technology and Informatics**
+* **Minor:** Art History
+* **Certification:** IS-42.A — Social Media in Emergency Management (FEMA)
+* **Skills:** Python, C#, Unity, Flask, Pandas, Matplotlib, Git, HTML, VS Code
+* **Interests:** Data analysis, IT systems, visualization, animation, and game development
 
-* [**Vampire Blood Drive Game Prototype**]
-  A fast-paced Unity prototype where a hungry vampire collects blood bags, avoids garlic hazards, and returns to their coffin to win. Built using C# scripts for player movement, collision detection, and game logic. <br>
-  [![Watch the Demo](https://img.youtube.com/vi/e9g9kYYl5rg/maxresdefault.jpg)](https://youtu.be/e9g9kYYl5rg)
+---
 
-* [**Haunted Rat Adventure Prototype**]
-  A 3D Unity prototype with 2D watercolor art elements, where a clever rat collects cheese while avoiding a roaming demon. Built in C# with custom animations and imported watercolor textures for a unique visual style. <br>
-  [![Watch the Demo](https://img.youtube.com/vi/fIxngaye9s0/maxresdefault.jpg)](https://youtu.be/fIxngaye9s0)
+## Highlight Projects
 
-* [**Data-Science-Salaries-Visual**](https://github.com/valebela/Data-Science-Salaries-Visual)
-   This project analyzes salary data for the role of Data Scientist using two datasets, the program loads and cleans both datasets, calculates average salaries, and visualizes the comparison.
+### 🧛 Vampire Blood Drive — Game Prototype
 
-* [**Character-Data-Rank**](https://github.com/valebela/Character-Data-Rank)
-  Data analysis + visualization of Sanrio character rankings (1986–2024). Outputs both CSV summaries and visual charts.
+A fast-paced Unity prototype where a vampire collects blood bags, avoids garlic hazards, and returns to their coffin to win. Built with C# for player movement, collision detection, and core game logic.
 
-* [**Taxi-Fare**](https://github.com/valebela/Taxi-Faire)
-  Python fare calculator that computes taxi costs based on distance.
+▶️ Demo: [https://youtu.be/e9g9kYYl5rg](https://youtu.be/e9g9kYYl5rg)
 
-* [**Flask_Pin**](https://github.com/valebela/Flask_Pin)
-  Flask web app demonstrating multiple routes, loops, conditionals, and JSON responses.
+---
 
-* [**Course-Evaluation**](https://github.com/valebela/Course-Evaluation)
-  Python script to collect student data and analyze grades by course (average, min, max) with clean summaries.
+### 🐀 Haunted Rat Adventure — Game Prototype
 
-## Languages & Tools  
+A 3D Unity prototype featuring 2D watercolor art elements. Players guide a rat to collect cheese while avoiding a roaming demon. Built in C# with custom animations and imported watercolor textures for a distinctive visual style.
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)  
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)  
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)  
+▶️ Demo: [https://youtu.be/fIxngaye9s0](https://youtu.be/fIxngaye9s0)
 
+---
 
-##  Connect with Me  
+### 📊 Data-Science-Salaries-Visual
 
-- Email: *valebelarod@gmail.com*  
-- LinkedIn: *www.linkedin.com/in/valebela*
+Analyzes and compares Data Scientist salary data by cleaning datasets, calculating averages, and visualizing trends.
 
+🔗 [https://github.com/valebela/Data-Science-Salaries-Visual](https://github.com/valebela/Data-Science-Salaries-Visual)
 
-Thanks for visiting my profile! Feel free to explore my projects and reach out if you’d like to collaborate.  
-Any feedback is greatly appreciated. 
+---
+
+### 📈 Character-Data-Rank
+
+Data analysis and visualization of Sanrio character popularity rankings (1986–2024), producing both CSV summaries and visual charts.
+
+🔗 [https://github.com/valebela/Character-Data-Rank](https://github.com/valebela/Character-Data-Rank)
+
+---
+
+### 🚕 Taxi-Fare
+
+Python fare calculator that computes taxi costs based on travel distance.
+
+🔗 [https://github.com/valebela/Taxi-Fare](https://github.com/valebela/Taxi-Fare)
+
+---
+
+### 🌐 Flask_Pin
+
+A Flask web app demonstrating multiple routes, loops, conditionals, and JSON responses.
+
+🔗 [https://github.com/valebela/Flask_Pin](https://github.com/valebela/Flask_Pin)
+
+---
+
+### 📚 Course-Evaluation
+
+Python script that collects student data and analyzes grades by course (average, minimum, and maximum).
+
+🔗 [https://github.com/valebela/Course-Evaluation](https://github.com/valebela/Course-Evaluation)
+
+---
+
+## Languages & Tools
+
+* Python
+* C#
+* Unity
+* Flask
+* Pandas
+* Matplotlib
+* Git
+* VS Code
+
+---
+
+## Connect With Me
+
+* 📧 Email: [valebelarod@gmail.com](mailto:valebelarod@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/valebela](https://www.linkedin.com/in/valebela)
+
+Thanks for visiting my profile! Feel free to explore my projects or reach out if you’d like to collaborate.
 
