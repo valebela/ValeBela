@@ -20,7 +20,7 @@ I build projects at the intersection of **data, design, and technology**, focusi
 
 Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, danceability, and valence across genres and artists. Filters and KPIs make patterns in modern music clear and interactive.
 
-[![Dashboard Preview](dashboard-preview.png)]
+🔗 [https://github.com/valebela/spotify-audio-dashboard]
 
 
 ### 🧛 Vampire Blood Drive — Game Prototype
