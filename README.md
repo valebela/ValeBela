@@ -16,6 +16,12 @@ I build projects at the intersection of **data, design, and technology**, focusi
 
 ## Highlight Projects
 
+[Live Dashboard](https://spotify-audio-dashboard.streamlit.app)
+Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, danceability, and valence across genres and artists. Filters and KPIs make patterns in modern music clear and interactive.
+![Dashboard Preview](dashboard-preview.png)
+
+
+
 ### 🧛 Vampire Blood Drive — Game Prototype
 
 A fast-paced Unity prototype where a vampire collects blood bags, avoids garlic hazards, and returns to their coffin to win. Built with C# for player movement, collision detection, and core game logic.
