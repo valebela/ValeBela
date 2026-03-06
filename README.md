@@ -27,7 +27,7 @@ Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, dan
 **Live Demo:** [Dice Battle Game on Streamlit](https://vale-dice-game.streamlit.app/K)  
   
 A web-based dice battle simulator that combines interactive gameplay with statistical analysis. Two players roll customizable dice over multiple rounds and track results in real-time.  
-🔗 [https://github.com/valebela/dice-game]\
+🔗 [https://github.com/valebela/Dice-Game]\
 
 
 ### 🧛 Vampire Blood Drive — Game Prototype
