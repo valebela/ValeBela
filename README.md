@@ -2,7 +2,7 @@
 
 I build projects at the intersection of **data, design, and technology**, focusing on practical solutions with a creative edge.
 
-🌐 **Website:** [https://valebela.neocities.org/welcome](https://valebela.neocities.org/welcome)
+🌐 **Website:** [https://valebela.neocities.org/welcome](https://valebela.neocities.org)
 
 ## About Me
 
