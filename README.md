@@ -20,7 +20,14 @@ I build projects at the intersection of **data, design, and technology**, focusi
 
 Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, danceability, and valence across genres and artists. Filters and KPIs make patterns in modern music clear and interactive.
 
-🔗 [https://github.com/valebela/spotify-audio-dashboard]
+🔗 [https://github.com/valebela/spotify-audio-dashboard]\
+
+## 2. Dice Battle Game & Analytics
+
+**Live Demo:** [Dice Battle Game on Streamlit](https://vale-dice-game.streamlit.app/K)  
+  
+A web-based dice battle simulator that combines interactive gameplay with statistical analysis. Two players roll customizable dice over multiple rounds and track results in real-time.  
+🔗 [https://github.com/valebela/dice-game]\
 
 
 ### 🧛 Vampire Blood Drive — Game Prototype
