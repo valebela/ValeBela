@@ -22,7 +22,7 @@ Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, dan
 
 🔗 [https://github.com/valebela/spotify-audio-dashboard]\
 
-## 2. Dice Battle Game & Analytics
+##  Dice Battle Game & Analytics
 
 **Live Demo:** [Dice Battle Game on Streamlit](https://vale-dice-game.streamlit.app/K)  
   
