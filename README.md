@@ -23,6 +23,7 @@ Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, dan
 🔗 [https://github.com/valebela/spotify-audio-dashboard]\
 
 
+
 ### 🎬 Horror Movies Data Analysis — SQL / SQL Server
 
 Analyzed IMDb Horror Movies dataset to extract insights on ratings, votes, runtimes, genres, directors, and box office gross. Wrote SQL queries to find top-rated, most popular, longest, and highest-grossing horror movies, and grouped data by director and year. Query results are captured with screenshots to showcase data exploration and aggregation.
