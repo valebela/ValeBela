@@ -24,7 +24,9 @@ Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, dan
 
 
 
-### 🎬 Horror Movies Data Analysis — SQL / SQL Server
+
+
+## 🎬 Horror Movies Data Analysis — SQL / SQL Server
 
 Analyzed IMDb Horror Movies dataset to extract insights on ratings, votes, runtimes, genres, directors, and box office gross. Wrote SQL queries to find top-rated, most popular, longest, and highest-grossing horror movies, and grouped data by director and year. Query results are captured with screenshots to showcase data exploration and aggregation.
 
@@ -40,21 +42,21 @@ A web-based dice battle simulator that combines interactive gameplay with statis
 🔗 [https://github.com/valebela/Dice-Game]\
 
 
-### 🧛 Vampire Blood Drive — Game Prototype
+## 🧛 Vampire Blood Drive — Game Prototype
 
 A fast-paced Unity prototype where a vampire collects blood bags, avoids garlic hazards, and returns to their coffin to win. Built with C# for player movement, collision detection, and core game logic.
 
 ▶️ Demo: [https://youtu.be/e9g9kYYl5rg](https://youtu.be/e9g9kYYl5rg)
 
 
-### 🐀 Haunted Rat Adventure — Game Prototype
+## 🐀 Haunted Rat Adventure — Game Prototype
 
 A 3D Unity prototype featuring 2D watercolor art elements. Players guide a rat to collect cheese while avoiding a roaming demon. Built in C# with custom animations and imported watercolor textures for a distinctive visual style.
 
 ▶️ Demo: [https://youtu.be/fIxngaye9s0](https://youtu.be/fIxngaye9s0)
 
 
-### 📊 Data-Science-Salaries-Visual
+## 📊 Data-Science-Salaries-Visual
 
 Analyzes and compares Data Scientist salary data by cleaning datasets, calculating averages, and visualizing trends.
 
@@ -62,7 +64,7 @@ Analyzes and compares Data Scientist salary data by cleaning datasets, calculati
 
 
 
-### 📈 Character-Data-Rank
+## 📈 Character-Data-Rank
 
 Data analysis and visualization of Sanrio character popularity rankings (1986–2024), producing both CSV summaries and visual charts.
 
@@ -70,7 +72,7 @@ Data analysis and visualization of Sanrio character popularity rankings (1986–
 
 
 
-### 🚕 Taxi-Fare
+## 🚕 Taxi-Fare
 
 Python fare calculator that computes taxi costs based on travel distance.
 
@@ -78,7 +80,7 @@ Python fare calculator that computes taxi costs based on travel distance.
 
 
 
-### 🌐 Flask_Pin
+## 🌐 Flask_Pin
 
 A Flask web app demonstrating multiple routes, loops, conditionals, and JSON responses.
 
@@ -86,7 +88,7 @@ A Flask web app demonstrating multiple routes, loops, conditionals, and JSON res
 
 
 
-### 📚 Course-Evaluation
+## 📚 Course-Evaluation
 
 Python script that collects student data and analyzes grades by course (average, minimum, and maximum).
 
