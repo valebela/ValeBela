@@ -2,7 +2,7 @@
 
 I build projects at the intersection of **data, design, and technology**, focusing on practical solutions with a creative edge.
 
-🌐 **Website:** [https://valebela.neocities.org/welcome](https://valebela.neocities.org)
+🌐 **Website:** [https://valebela.neocities.org](https://valebela.neocities.org)
 
 ## About Me
 
@@ -10,7 +10,7 @@ I build projects at the intersection of **data, design, and technology**, focusi
 * **B.S. in Information Technology and Informatics**
 * **Minor:** Art History
 * **Certification:** IS-42.A — Social Media in Emergency Management (FEMA)
-* **Skills:** Python, C#, Unity, Flask, Pandas, Matplotlib, Git, HTML, VS Code
+* **Skills:** Python, C#, SQL/SQL Server, Unity, Flask, Pandas, Matplotlib, Git, HTML/CSS, VS Code, Streamlit
 * **Interests:** Data analysis, IT systems, visualization, animation, and game development
 
 
@@ -21,6 +21,15 @@ I build projects at the intersection of **data, design, and technology**, focusi
 Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, danceability, and valence across genres and artists. Filters and KPIs make patterns in modern music clear and interactive.
 
 🔗 [https://github.com/valebela/spotify-audio-dashboard]\
+
+
+### 🎬 Horror Movies Data Analysis — SQL / SQL Server
+
+Analyzed IMDb Horror Movies dataset to extract insights on ratings, votes, runtimes, genres, directors, and box office gross. Wrote SQL queries to find top-rated, most popular, longest, and highest-grossing horror movies, and grouped data by director and year. Query results are captured with screenshots to showcase data exploration and aggregation.
+
+🔗  [SQL Scripts](https://github.com/valebela/HorrorMoviesData_Analysis)
+
+
 
 ##  Dice Battle Game & Analytics
 
