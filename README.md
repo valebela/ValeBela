@@ -1,4 +1,4 @@
-# Hello, I'm Vale Rodriguez
+# SELECT * FROM Vale; 
 
 Data Analyst specializing in Python, SQL, and data visualization.
 
