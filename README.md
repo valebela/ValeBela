@@ -2,7 +2,7 @@
 
 Data Analyst specializing in Python, SQL, and data visualization.
 
-I build data-driven solutions by cleaning, analyzing, and visualizing
+Welcome to my Github! I build data-driven solutions by cleaning, analyzing, and visualizing
 complex datasets to uncover meaningful insights. My background in
 Information Technology allows me to combine analytical thinking with
 technical problem-solving to create interactive tools and dashboards.
