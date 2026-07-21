@@ -1,116 +1,147 @@
-# Hello, I’m Vale Bela 
+# Hello, I'm Vale Rodriguez
 
-I build projects at the intersection of **data, design, and technology**, focusing on practical solutions with a creative edge.
+Data Analyst specializing in Python, SQL, and data visualization.
 
-🌐 **Website:** [https://valebela.neocities.org](https://valebela.neocities.org)
+I build data-driven solutions by cleaning, analyzing, and visualizing
+complex datasets to uncover meaningful insights. My background in
+Information Technology allows me to combine analytical thinking with
+technical problem-solving to create interactive tools and dashboards.
+
+🌐 Portfolio:
+https://valebela.neocities.org
+
+---
 
 ## About Me
 
-* **Rutgers University–New Brunswick** | Class of 2026
-* **B.S. in Information Technology and Informatics**
-* **Minor:** Art History
-* **Certification:** IS-42.A — Social Media in Emergency Management (FEMA)
-* **Skills:** Python, C#, SQL/SQL Server, Unity, Flask, Pandas, Matplotlib, Git, HTML/CSS, VS Code, Streamlit
-* **Interests:** Data analysis, IT systems, visualization, animation, and game development
+- Rutgers University–New Brunswick Graduate
+- B.S. Information Technology and Informatics
+- Minor: Art History
+- Certification: FEMA IS-42.A — Social Media in Emergency Management
+
+## Technical Skills
+
+**Programming & Data**
+- Python
+- SQL / SQL Server
+- Pandas
+- Matplotlib
+- Tableau
+- Streamlit
+
+**Development Tools**
+- Git
+- VS Code
+- Flask
+- HTML/CSS
+- C#
+
+**Interests**
+- Data Analytics
+- Data Visualization
+- Interactive Dashboards
+- IT Systems
+- Technical Problem Solving
+
+---
+
+# Featured Projects
+
+## 🩺 U.S. Mortality Data Analysis
+**Python | Pandas | Tableau**
+
+Analyzed CDC Provisional Mortality Statistics data to identify geographic
+and demographic mortality patterns.
+
+Responsibilities:
+- Cleaned and validated raw public health datasets
+- Calculated population-adjusted mortality rates
+- Created Tableau dashboards exploring state-level trends
+- Prepared analysis-ready datasets for visualization
+
+🔗 Repository: (add link)
+
+---
+
+## 🎵 Spotify Audio Dashboard
+**Python | Pandas | Streamlit | Data Visualization**
+
+Interactive dashboard analyzing Spotify audio features including tempo,
+energy, danceability, and valence.
+
+Features:
+- Interactive filtering
+- KPI summaries
+- Feature comparisons across tracks and genres
+
+🔗 Live Dashboard:
+https://spotify-audio-dashboard.streamlit.app
+
+🔗 GitHub:
+https://github.com/valebela/spotify-audio-dashboard
 
 
-## Highlight Projects
+---
 
-### 🎵 [Live Dashboard](https://spotify-audio-dashboard.streamlit.app)
+## 🎬 IMDb Horror Movies Data Analysis
+**SQL | SQL Server**
 
-Interactive Spotify dashboard built with Streamlit, analyzing tempo, energy, danceability, and valence across genres and artists. Filters and KPIs make patterns in modern music clear and interactive.
+Analyzed IMDb horror movie data using SQL queries to explore:
+- Ratings
+- Votes
+- Revenue
+- Runtime
+- Genres
+- Director performance
 
-🔗 [https://github.com/valebela/spotify-audio-dashboard]\
+Created queries using filtering, grouping, and aggregation to identify trends.
 
-
-
-
-
-## 🎬 Horror Movies Data Analysis — SQL / SQL Server
-
-Analyzed IMDb Horror Movies dataset to extract insights on ratings, votes, runtimes, genres, directors, and box office gross. Wrote SQL queries to find top-rated, most popular, longest, and highest-grossing horror movies, and grouped data by director and year. Query results are captured with screenshots to showcase data exploration and aggregation.
-
-🔗  [SQL Scripts](https://github.com/valebela/HorrorMoviesData_Analysis)
-
-
-
-##  Dice Battle Game & Analytics
-
-**Live Demo:** [Dice Battle Game on Streamlit](https://vale-dice-game.streamlit.app/K)  
-  
-A web-based dice battle simulator that combines interactive gameplay with statistical analysis. Two players roll customizable dice over multiple rounds and track results in real-time.  
-🔗 [https://github.com/valebela/Dice-Game]\
+🔗 GitHub:
+https://github.com/valebela/HorrorMoviesData_Analysis
 
 
-## 🧛 Vampire Blood Drive — Game Prototype
+---
 
-A fast-paced Unity prototype where a vampire collects blood bags, avoids garlic hazards, and returns to their coffin to win. Built with C# for player movement, collision detection, and core game logic.
+## 📊 Data Science Salaries Visual
+**Python | Pandas | Matplotlib**
 
-▶️ Demo: [https://youtu.be/e9g9kYYl5rg](https://youtu.be/e9g9kYYl5rg)
+Cleaned and analyzed salary datasets to identify compensation trends
+across data-related roles.
 
-
-## 🐀 Haunted Rat Adventure — Game Prototype
-
-A 3D Unity prototype featuring 2D watercolor art elements. Players guide a rat to collect cheese while avoiding a roaming demon. Built in C# with custom animations and imported watercolor textures for a distinctive visual style.
-
-▶️ Demo: [https://youtu.be/fIxngaye9s0](https://youtu.be/fIxngaye9s0)
+🔗 GitHub:
+https://github.com/valebela/Data-Science-Salaries-Visual
 
 
-## 📊 Data-Science-Salaries-Visual
+---
 
-Analyzes and compares Data Scientist salary data by cleaning datasets, calculating averages, and visualizing trends.
+# Additional Projects
 
-🔗 [https://github.com/valebela/Data-Science-Salaries-Visual](https://github.com/valebela/Data-Science-Salaries-Visual)
+## 🎲 Dice Battle Game & Analytics
+Python | Streamlit | Pandas
 
+Interactive simulation combining gameplay with statistical tracking.
 
+## 🧛 Vampire Blood Drive
+Unity | C#
 
-## 📈 Character-Data-Rank
+Gameplay prototype demonstrating player systems, collision detection,
+and game logic.
 
-Data analysis and visualization of Sanrio character popularity rankings (1986–2024), producing both CSV summaries and visual charts.
+## 🐀 Haunted Rat Adventure
+Unity | C#
 
-🔗 [https://github.com/valebela/Character-Data-Rank](https://github.com/valebela/Character-Data-Rank)
+3D prototype combining gameplay mechanics with custom visual assets.
 
+## 🌐 Flask Applications
+Python | Flask
 
+Web applications demonstrating routes, JSON responses, and backend logic.
 
-## 🚕 Taxi-Fare
+---
 
-Python fare calculator that computes taxi costs based on travel distance.
+# Connect With Me
 
-🔗 [https://github.com/valebela/Taxi-Fare](https://github.com/valebela/Taxi-Fare)
+📧 valebelarod@gmail.com
 
-
-
-## 🌐 Flask_Pin
-
-A Flask web app demonstrating multiple routes, loops, conditionals, and JSON responses.
-
-🔗 [https://github.com/valebela/Flask_Pin](https://github.com/valebela/Flask_Pin)
-
-
-
-## 📚 Course-Evaluation
-
-Python script that collects student data and analyzes grades by course (average, minimum, and maximum).
-
-🔗 [https://github.com/valebela/Course-Evaluation](https://github.com/valebela/Course-Evaluation)
-
-
-## Languages & Tools
-
-* Python
-* C#
-* Unity
-* Flask
-* Pandas
-* Matplotlib
-* Git
-* VS Code
-
-
-## Connect With Me
-
-* 📧 Email: [valebelarod@gmail.com](mailto:valebelarod@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/valebela](https://www.linkedin.com/in/valebela)
-
-Thanks for visiting my profile! Feel free to explore my projects or reach out if you’d like to collaborate.
-
+💼 LinkedIn:
+https://www.linkedin.com/in/valebela
