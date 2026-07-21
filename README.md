@@ -2,12 +2,12 @@
 
 Data Analyst specializing in Python, SQL, and data visualization.
 
-Welcome to my Github! I build data-driven solutions by cleaning, analyzing, and visualizing
+Welcome to my GitHub! I build data-driven solutions by cleaning, analyzing, and visualizing
 complex datasets to uncover meaningful insights. My background in
 Information Technology allows me to combine analytical thinking with
 technical problem-solving to create interactive tools and dashboards.
 
-🌐 Portfolio:
+Portfolio:
 https://valebela.neocities.org
 
 ---
@@ -59,7 +59,8 @@ Responsibilities:
 - Created Tableau dashboards exploring state-level trends
 - Prepared analysis-ready datasets for visualization
 
-🔗 Repository: (add link)
+🔗GitHub:
+https://github.com/valebela/US-Mortality-Data-Analysis  
 
 ---
 
