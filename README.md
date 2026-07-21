@@ -47,6 +47,27 @@ https://valebela.neocities.org
 
 # Featured Projects
 
+## 📊 Business Operations Analytics Dashboard
+
+An end-to-end business intelligence project focused on analyzing operational performance through **Python, SQL Server, and Tableau**.
+
+This project simulates a real-world business analytics workflow by generating, cleaning, transforming, and analyzing customer, product, order, and transaction data. The data was processed using Python and Pandas, stored and analyzed in SQL Server, and transformed into interactive Tableau dashboards to uncover meaningful business insights.
+
+The dashboard provides executive-level reporting through key performance indicators (KPIs), including total revenue, total profit, order volume, and profit margin. It also explores regional revenue performance, industry profitability, product trends, customer performance, and monthly revenue patterns.
+
+### Key Features:
+- Built a complete analytics pipeline from raw data to business insights
+- Created SQL Server views for reusable reporting and analysis
+- Developed Tableau dashboards for interactive data exploration
+- Analyzed revenue trends, profitability, customers, and product performance
+- Applied data visualization techniques to communicate findings clearly
+
+**Technologies:**  
+Python • Pandas • SQL Server • SQL Views • Tableau • Data Visualization • Business Intelligence
+
+🔗 **Project Repository:**  
+[Business Operations Analytics Dashboard](https://github.com/valebela/Business-Operations-Analytics)
+
 ## 🩺 U.S. Mortality Data Analysis
 **Python | Pandas | Tableau**
 
