@@ -15,7 +15,7 @@ https://valebela.neocities.org
 ## About Me
 
 - Rutgers University–New Brunswick Graduate
-- B.S. Information Technology and Informatics
+- B.A. Information Technology and Informatics
 - Minor: Art History
 - Certification: FEMA IS-42.A — Social Media in Emergency Management
 
